@@ -15,6 +15,7 @@ Below are some screenshots showcasing the Maze Solver in action and the differen
 
 <img width="1728" alt="Screen Shot 2024-08-31 at 12 59 43 PM" src="https://github.com/user-attachments/assets/1f0fc8af-1515-406e-91e9-2597565aec28">
 
+<img width="1728" alt="Screen Shot 2024-08-31 at 1 00 32 PM" src="https://github.com/user-attachments/assets/3270b27a-2978-420d-ac0a-6a7983664658">
 
 <img width="1728" alt="Screen Shot 2024-08-31 at 1 00 59 PM" src="https://github.com/user-attachments/assets/975e020f-6518-48e8-ad14-19d9bfbd5df3">
 
