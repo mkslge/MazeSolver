@@ -1,7 +1,8 @@
 Maze Solver
 Welcome to the Maze Solver project! This project demonstrates the functionality of three fundamental pathfinding algorithms: Depth-First Search (DFS), Breadth-First Search (BFS), and Dijkstra's Algorithm, applied to solving mazes. This project was apart of my CMSC132 Classwork
 
-Features
+Features:
+
 Maze Visualization: Interactive graphical representation of mazes and solution paths.
 Algorithm Demonstration: Visualize how DFS, BFS, and Dijkstra's Algorithm work to solve mazes.
 User Interface: Developed using Java Swing for a responsive and user-friendly experience.
