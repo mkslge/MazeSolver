@@ -4,10 +4,13 @@ Welcome to the Maze Solver project! This project demonstrates the functionality 
 Features:
 
 Maze Visualization: Interactive graphical representation of mazes and solution paths.
+
 Algorithm Demonstration: Visualize how DFS, BFS, and Dijkstra's Algorithm work to solve mazes.
+
 User Interface: Developed using Java Swing for a responsive and user-friendly experience.
+
 Algorithm Comparison: Compare the efficiency and behavior of different algorithms in solving mazes.
-Screenshots
+
 Below are some screenshots showcasing the Maze Solver in action and the different algorithms used:
 
 <img width="1723" alt="Screen Shot 2024-08-31 at 12 58 16 PM" src="https://github.com/user-attachments/assets/f5fcb435-ebd5-4b5a-88f5-be89834415d1">
